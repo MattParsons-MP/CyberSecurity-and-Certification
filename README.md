@@ -29,7 +29,7 @@
 
 ## Certification 
 
-- [Cyber & Security](https://github.com/MattParsons-MP/CyberSecurity-and-Certification) (CompTIA, Blue Team, Arc X)
+- [Cyber & Security](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/tree/main/Certifications) (CompTIA, Blue Team, Arc X)
 
 
 
