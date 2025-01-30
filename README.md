@@ -3,8 +3,6 @@
 # <div align="center">💫 CyberSecurity Certifications</div>
 <br>
 📖 This is an area to display my training and certifcations in CyberSecurity 📖<br><br>
-📋 I supplement theorital knowledge with practical assessments using various online labs 📋<br><br>
-🔭 I am actively searching for opportunities to apply my skills 🔭<br><br>
 📫 Reach me at:  mat.parsons.27@gmail.com<br><br>
 <br />
 <br />
